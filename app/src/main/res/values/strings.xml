@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_2</string>
+    <string name="Dscri">Enthusiastic and committed Computer Engineering student with a strong academic background, practical skills, passion for technology .</string>
+    <string name="my_name">Kaream Ahmed</string>
+    <string name="my_age">My age is 21 .</string>
+    <string name="My_job">َِAndroid Software Engineer .</string>
+    <string name="my_photo">My_Photo</string>
+    <string name="icon_back">Icon Back</string>
+    <string name="fayoum">Fayoum .</string>
+</resources>
